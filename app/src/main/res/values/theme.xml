@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="KievRentTheme" parent="@android:style/Theme.Black">
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+    <style name="KievRentThemeButton" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button</item>
+    </style>
+</resources>

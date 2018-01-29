@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">KievRent</string>
+    <string name="copyright">2000–2017 © KievRent</string>
+    <string name="ButtonCalendar">Календарь</string>
+    <string name="ButtonCheck">Заезды/Выезды</string>
+    <string name="ButtonAbout">Фотографии</string>
+    <string name="ButtonPause">Придержать квартиру</string>
+    <string name="ButtonAdd">Добавить контакт</string>
+    <string name="ButtonNew">Новый контакт</string>
+    <string name="ButtonContacts">Контакты</string>
+    <string name="ButtonList">Доcтупы</string>
+    <string name="ButtonManagers">Менеджеры</string>
+    <string name="quit">Нажмите еще раз для выхода!</string>
+    <string name="granted">Интернет включен!</string>
+    <string name="denied">Интернет не доступен!</string>
+    <string name="deleted">Контакт удален.</string>
+    <string name="saved">Контакт не удален.</string>
+    <string name="warning">Не все поля заполнены!</string>
+    <string name="url">Открывается адрес:</string>
+    <string name="tvName">Введите имя</string>
+    <string name="tvPhone">+380</string>
+    <string name="smsorcall">Выберите действие:</string>
+    <string name="deleteornot">Вы уверены, что хотите удалить этот контакт?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="sms">Отправить SMS</string>
+    <string name="call">Позвонить</string>
+    <string name="share">Поделиться ссылкой через:</string>
+</resources>

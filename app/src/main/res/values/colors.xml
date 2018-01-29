@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#ffffff</color>
+    <color name="selectorPressed">#87CEEB</color>
+    <color name="selectorActivated">#00BFFF</color>
+    <color name="selectorDrawable">#B7EF8E</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+</resources>
